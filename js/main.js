@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Alice Wang.", "a MS student in Computer Graphics", "a future Technical Artist", "a future Graphics Programmer"],
+      strings: ["Mingzhu Wei", "a MS student in Computer Graphics", "a future Technical Artist", "a future Graphics Programmer"],
       typeSpeed: 100,
       loop: true,
     });
